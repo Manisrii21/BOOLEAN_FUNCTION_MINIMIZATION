@@ -56,7 +56,7 @@ assign F1=x1|x2|x3|x4|x5;
 assign F2=x6|x7|x8|x9|x10;
 endmodule
 ```
-```
+
 ## **RTL realization**
 
 ![image](https://github.com/user-attachments/assets/fb61082f-54cf-43f3-94c8-b7ddda13ca0d)
