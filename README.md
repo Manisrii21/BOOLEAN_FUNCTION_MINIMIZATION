@@ -37,8 +37,7 @@ Hardware – PCs, Cyclone II , USB flasher
 ```
 Developed by: MANI SRI LATHA . M
 RegisterNumber:212223110025
-*/
-```
+
 module EXP_2(A,B,C,D,W,X,Y,Z,F1,F2);
 input A,B,C,D,W,X,Y,Z;
 wire x1,x2,x3,x4,x5,x6,x7,x8,x9,x10;
